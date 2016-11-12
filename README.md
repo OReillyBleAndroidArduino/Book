@@ -20,6 +20,10 @@ The code is available in the following repositories:
 
 [Chapter 4: Saying Hello] (https://github.com/OReillyBleAndroidArduino/Chapter04)
 
+[Chapter 5: Shaking Hands] (https://github.com/OReillyBleAndroidArduino/Chapter05)
+
+[Chapter 6: Services and Characteristics] (https://github.com/OReillyBleAndroidArduino/Chapter06)
+
 
 Fair Use
 --------
