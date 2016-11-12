@@ -24,6 +24,14 @@ The code is available in the following repositories:
 
 [Chapter 6: Services and Characteristics] (https://github.com/OReillyBleAndroidArduino/Chapter06)
 
+[Chapter 7: Send Data to Central] (https://github.com/OReillyBleAndroidArduino/Chapter07)
+
+[Chapter 8: Send Data to Peripheral] (https://github.com/OReillyBleAndroidArduino/Chapter08)
+
+[Chapter 9: Notifications] (https://github.com/OReillyBleAndroidArduino/Chapter09)
+
+[Chapter 10: Large Data] (https://github.com/OReillyBleAndroidArduino/Chapter10)
+
 
 Fair Use
 --------
