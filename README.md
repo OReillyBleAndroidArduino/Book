@@ -8,14 +8,6 @@ If you find these examples helpful and you haven't purchased the book, please co
 
 ![BookCover](Bluetooth Low Energy with Android and Arduino Cover.png)
 
-Fair Use
---------
-
-The book itself is copyrighted material, published under an MIT License. The license allows you to modify and reuse, and distribute this code for private or commercial use.
-
-Generally, you may use this code in your programs and documentation without my permission, unless you are reproducing a significant portion of the code.  For example, writing a program that uses several chunks of code from this repository does not require permission. Selling or distributing a CD-ROM of examples from this repository does require permission. Answering a question by citing this material and quoting example code does not require permission. Incorporating a significant amount of example code from this repository into your product’s documentation does require permission.
-
-- Tony Gaitatzis (<backupbrain@gmail.com>)
 
 
 Organization
@@ -28,6 +20,14 @@ The code is available in the following repositories:
 [Chapter 4: Saying Hello] (https://github.com/OReillyBleAndroidArduino/Chapter04)
 
 
+Fair Use
+--------
+
+The book itself is copyrighted material, published under an MIT License. The license allows you to modify and reuse, and distribute this code for private or commercial use.
+
+Generally, you may use this code in your programs and documentation without my permission, unless you are reproducing a significant portion of the code.  For example, writing a program that uses several chunks of code from this repository does not require permission. Selling or distributing a CD-ROM of examples from this repository does require permission. Answering a question by citing this material and quoting example code does not require permission. Incorporating a significant amount of example code from this repository into your product’s documentation does require permission.
+
+- Tony Gaitatzis (<backupbrain@gmail.com>)
 
 
 MIT License
