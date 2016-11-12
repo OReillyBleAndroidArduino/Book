@@ -21,7 +21,7 @@ Each chapter of this book teaches a new concept in Bluetotoh Low Energy Programm
 
 The code is available in the following repositories:
 
-[Chapter 3: Bootstrapping] (<https://github.com/OReillyBleAndroidArduino/Chapter03>)
+[Chapter 3: Bootstrapping] (</OReillyBleAndroidArduino/Chapter03>)
 
 
 
