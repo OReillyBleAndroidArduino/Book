@@ -6,6 +6,8 @@ These are **complete downloadable code examples** from my book, _Bluetooth Low E
 
 If you find these examples helpful and you haven't purchased the book, please consider doing so.
 
+- Tony Gaitatzis (<backupbrain@gmail.com>)
+
 ![BookCover](Bluetooth Low Energy with Android and Arduino Cover.png)
 
 
@@ -32,15 +34,15 @@ The code is available in the following repositories:
 
 [Chapter 10: Large Data] (https://github.com/OReillyBleAndroidArduino/Chapter10)
 
+[Chapter 11: Security] (https://github.com/OReillyBleAndroidArduino/Chapter11)
 
-Fair Use
---------
+[Chapter 12: Project: Beacon] (https://github.com/OReillyBleAndroidArduino/Chapter12)
 
-The book itself is copyrighted material, published under an MIT License. The license allows you to modify and reuse, and distribute this code for private or commercial use.
+[Chapter 13: Project: BLE Echo] (https://github.com/OReillyBleAndroidArduino/Chapter13)
 
-Generally, you may use this code in your programs and documentation without my permission, unless you are reproducing a significant portion of the code.  For example, writing a program that uses several chunks of code from this repository does not require permission. Selling or distributing a CD-ROM of examples from this repository does require permission. Answering a question by citing this material and quoting example code does not require permission. Incorporating a significant amount of example code from this repository into your product’s documentation does require permission.
+[Chapter 14: Project: Remote Control LED] (https://github.com/OReillyBleAndroidArduino/Chapter14)
 
-- Tony Gaitatzis (<backupbrain@gmail.com>)
+
 
 
 MIT License
